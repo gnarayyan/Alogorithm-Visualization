@@ -1,6 +1,7 @@
 # Algorithm Visualization
 
-> A Vue.js project
+> Visualization Project
+**Demo Link:** ![Youtube Url](https://youtu.be/voY96HPLJmw)
 
 ## Build Setup
 
