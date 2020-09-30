@@ -1,4 +1,4 @@
-# myproject
+# Algorithm Visualization
 
 > A Vue.js project
 
@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-npm install
+npm install -g vue-cli
 
 # serve with hot reload at localhost:8080
 npm run dev
@@ -15,4 +15,11 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Sort Visualization
+**Bubble Sort,Selection Sort, Quick Sort, Heap Sort and Insertion Sort**
+## Search Visualization
+**Linear and Binary search algorithms**
+
+## Backtracking Visualization
+**Created a Sudoku and solved using Backtracking**
